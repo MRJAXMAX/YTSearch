@@ -21,6 +21,7 @@ Clone the Repository
 Open your terminal or command prompt and run:
 
 git clone https://github.com/MRJAXMAX/YTSearch.git
+
 cd YTSearch
 
 
