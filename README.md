@@ -41,9 +41,7 @@ VITE_YT_API_KEY=your_youtube_api_key
 Replace your_youtube_api_key with your actual YouTube API key. If you don't have one, you can obtain it from the Google Developers Console
 .
 
-Run the Development Server
-
-Start the development server by running:
+Run the Development Server by opening a terminal or cmd and enter the command:
 
 npm run dev
 
@@ -64,6 +62,6 @@ Use the search functionality to find specific phrases within the captions.
 
 Notes
 
-Ensure your YouTube API key has the necessary permissions to access YouTube Data API v3.
+Ensure your YouTube API key is correct and has the necessary permissions to access YouTube Data API v3.
 
 The application is designed for local development and may require additional configuration for production deployment. WORK IN PROGRESS
